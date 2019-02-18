@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(156, 224, 224);
+}
+
+label {
+    background-color: darkcyan;
+    justify-content: flex-start;
+    padding-left: 10px;
+    width: 100%;
+    font-weight: bold;
+    margin-bottom: 0;
+    line-height: 2;
+    border-top-right-radius: .5rem;
+    border-top-left-radius: .5rem;
+}
+
+.row-content {
+    margin-top: 50px;
+}
+
+textarea {
+    width: 100%;
+    margin-bottom: -.5rem;
+    outline-color: rgb(18, 68, 68);
+}
+
+.editor {
+    outline-color: rgb(18, 68, 68);
+}
+
+.preview {
+    border: 1px solid rgb(5, 39, 39);
+    width: 100%;
+    min-height: 300px;
+    padding: 20px;
+    margin-bottom: 50px;
+    background-color: rgb(197, 219, 219);
+}

@@ -1,0 +1,16 @@
+.container {
+  border: 2px solid orange;
+  padding: 20px;
+  margin: 200px auto;
+  max-width: 500px;
+}
+
+input {
+  margin: 4px;
+  padding: 5px;
+  width: 70px;
+  height: 70px;
+  background-color: rgb(206, 206, 206);
+  box-shadow: 2px 2px 3px black;
+  border-radius: 5px;
+}
